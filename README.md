@@ -1,1 +1,1 @@
-# responsive_card_payment
+# responsive_card_payment_layout
